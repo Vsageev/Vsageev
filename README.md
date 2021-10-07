@@ -6,9 +6,9 @@ Examples:
 ```diff
 * https://github.com/uchi-hack-once-upon-a-time-in-misis/poznavalki-web
 * https://github.com/Vsageev/hack-misis-site
-# * (https://github.com/Barbecue-Finance/mobile_app)
-* #(https://github.com/TITS-System/courier)
-#* (https://github.com/TITS-System/client)
+# (https://github.com/Barbecue-Finance/mobile_app)
+# (https://github.com/TITS-System/courier)
+# (https://github.com/TITS-System/client)
 ```
 
 - 🧪 Also had some experience with: Unity, Angular, ASP.NET Core
