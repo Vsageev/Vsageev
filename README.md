@@ -3,7 +3,7 @@
 
 - 🛠️ Mainly use flutter since April 2021
 Examples:
-```
+```diff
 * https://github.com/uchi-hack-once-upon-a-time-in-misis/poznavalki-web
 * https://github.com/Vsageev/hack-misis-site
 # * (https://github.com/Barbecue-Finance/mobile_app)
