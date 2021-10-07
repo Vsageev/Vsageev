@@ -4,8 +4,8 @@
   
 Examples:
 ```diff
-* https://github.com/uchi-hack-once-upon-a-time-in-misis/poznavalki-web
 * https://github.com/Vsageev/hack-misis-site
+* https://github.com/uchi-hack-once-upon-a-time-in-misis/poznavalki-web
 # (https://github.com/Barbecue-Finance/mobile_app)
 # (https://github.com/TITS-System/courier)
 # (https://github.com/TITS-System/client)
@@ -18,6 +18,9 @@ Examples:
 * Unity - https://gitlab.com/Vlane/watermeloneater
 * Angular, ASP.NET Core - https://github.com/itpark-team/MemoryCardsWebApp
 ```
+
+- 🔥 Use firebase in solo projects (firestore, cloud functions, auth, storage, hosting)
+  
 
 - 📫 You can reach me with telegram: https://t.me/vforvlane
 
