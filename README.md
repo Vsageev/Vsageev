@@ -13,8 +13,10 @@ Examples:
 
 - 🧪 Also had some experience with: Unity, Angular, ASP.NET Core
 Examples:
+```
 * Unity - https://gitlab.com/Vlane/watermeloneater
 * Angular, ASP.NET Core - https://github.com/itpark-team/MemoryCardsWebApp
+```
 
 - 📫 You can reach me with telegram: https://t.me/vforvlane
 
