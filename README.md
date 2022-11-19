@@ -12,8 +12,9 @@ Some hacathon projects:
 * https://github.com/TITS-System/courier + https://github.com/TITS-System/client
 
 Other:
-https://github.com/Vsageev/dataverse_flutter
-https://github.com/Vsageev/hack-misis-site
+
+* https://github.com/Vsageev/dataverse_flutter
+* https://github.com/Vsageev/hack-misis-site
 ```
 
 - 🧪 Also had some experience with: Unity, Angular, ASP.NET Core  
