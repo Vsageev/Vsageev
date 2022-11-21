@@ -8,7 +8,7 @@ Some hacathon projects:
 
 * https://github.com/Vsageev/mos-estate
 * https://github.com/uchi-hack-once-upon-a-time-in-misis/poznavalki-web
-* https://github.com/Barbecue-Finance/mobile_app
+* https://github.com/Kaboom-Corporation/Marketplace
 * https://github.com/TITS-System/courier + https://github.com/TITS-System/client
 
 Other:
