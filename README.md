@@ -6,6 +6,7 @@ Examples:
 ```diff
 Some hacathon projects:
 
+* https://github.com/Vsageev/avalon_retraining
 * https://github.com/Vsageev/mos-estate
 * https://github.com/Kaboom-Corporation/Marketplace
 * https://github.com/uchi-hack-once-upon-a-time-in-misis/poznavalki-web
