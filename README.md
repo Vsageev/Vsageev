@@ -2,7 +2,7 @@
   
 * 🛠️ Mainly use flutter since April 2021  
 
-https://www.linkedin.com/in/vladislav-sageev-0ab90a307/
+https://www.linkedin.com/in/vladislav-sageev/
 
 Examples:
 ```diff
