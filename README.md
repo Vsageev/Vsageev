@@ -29,7 +29,4 @@ Examples:
 ```
 
 - 🔥 Use firebase in solo projects (firestore, cloud functions, auth, storage, hosting)
-  
-
-- 📫 You can reach me out in telegram: https://t.me/vforvlane
 
